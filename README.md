@@ -1,10 +1,8 @@
-Course Slides
-http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+Course Slides http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
-Assignment
-http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf
+Sutton and Barto https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 
-Description
+Description:
 
 1)	The player and dealer are each dealt 1 card
 
