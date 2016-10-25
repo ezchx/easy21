@@ -23,6 +23,6 @@ Description:
   
 Note that the Q values are updated for each state in the hand.
 
-V* values after 100K hands:
+V* values after 10 million hands:
 
-![alt text](https://github.com/ezchx/easy21/blob/master/easy21_mc_graph_100k.png "100K runs")
+![alt text](https://github.com/ezchx/easy21/blob/master/easy21_mc_graph_10m_greedy.png "10m runs")
