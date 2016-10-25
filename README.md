@@ -18,7 +18,7 @@ Description:
 
 4)	At the end of each hand, the Q matrix is updated for each state / action combination as follows:
 
-..*	Q new = Q old + (alpha * (hand reward  - Q old))
+  *	Q new = Q old + (alpha * (hand reward  - Q old))
 
 
 Many thanks to https://github.com/xrz000/Easy21
