@@ -19,6 +19,6 @@ Description:
 
   *	Q new = Q old + (alpha * (hand reward  - Q old))
 
-V* values after 100K hands
+V* values after 100K hands:
 
 ![alt text](https://github.com/ezchx/easy21/blob/master/easy21_mc_graph_100k.png "100K runs")
