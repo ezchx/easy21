@@ -1,4 +1,4 @@
-## Easy21 Reinforcement Learning Assignment
+## Easy21 Reinforcement Learning Monte-Carlo Assignment
 
 Course Slides http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
