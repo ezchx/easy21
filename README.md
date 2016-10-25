@@ -12,7 +12,7 @@ Description
 
 --	Epsilon = 100 / (100 + N(s)) where N(s) is the number of times the state has been visited
 
---	If a random number from 0-1 > epsilon then use the prior best action, if not pick a random action.
+--	If epsilon is less than a random number from 0-1, then use the prior best action. if not pick a random action.
         So as N(s) increases, epsilon decreases and you are more likely to follow the prior best action.
 
 3)	If the player stands before busting, then the dealer draws until > 17 or <  1
