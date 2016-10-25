@@ -17,7 +17,11 @@ Description:
 
 4)	At the end of each hand, the Q matrix is updated for each state / action combination as follows:
 
+  * alpha = 1 / N(s, a) where N(s, a) is the number of times the state / action combination has been visited
+  * hand reward = 1 win, -1 lose, 0 tie
   *	Q new = Q old + (alpha * (hand reward  - Q old))
+  
+Note that the Q values are updated for each state in the hand.
 
 V* values after 100K hands:
 
