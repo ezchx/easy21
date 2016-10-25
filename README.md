@@ -20,4 +20,4 @@ Description:
   *	Q new = Q old + (alpha * (hand reward  - Q old))
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/ezchx/easy21/blob/master/easy21_mc_graph_100k.png "100K runs")
