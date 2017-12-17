@@ -13,7 +13,7 @@ Description:
   *	Epsilon = 100 / (100 + N(s)) where N(s) is the number of times the state has been visited
   *	If epsilon is less than a random number from 0-1, then use the prior best action. If not, pick a random action. So as N(s) increases, epsilon decreases and you are more likely to follow the prior best action.
 
-3)	If the player stands before busting, the dealer draws until > 17 or <  1
+3)	If the player does not bust, the dealer draws until > 17
 
 4)	At the end of each hand, the Q matrix is updated for each state / action combination as follows:
 
@@ -23,6 +23,6 @@ Description:
   
 Note that the Q values are updated for each state in the hand.
 
-V* values after 10 million hands:
+After 10 million hands:
 
 ![alt text](https://github.com/ezchx/easy21/blob/master/easy21_mc_graph_10m_greedy.png "10m runs")
